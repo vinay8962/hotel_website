@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+
+@theme {
+    --font-primary: "'Gilda Display', serif";
+    --font-secondPrimary: "'Barlow_Condensed',sans-serif";
+    --color-primary: #2095ae;
+    --color-secondPrimary: #0f2454;
+}
