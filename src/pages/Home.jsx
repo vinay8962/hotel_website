@@ -6,6 +6,7 @@ import ServiceSection from "../components/ServiceSection";
 import TestimonialSection from "../components/TestimonialSection";
 import PromotionalVideo from "../components/PromotionalVideo";
 import FacilitiesSection from "../components/FacilitiesSection";
+import RoomSection from "../components/RoomSection";
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
       <ServiceSection />
       <TestimonialSection />
       <FacilitiesSection />
+      <RoomSection />
     </div>
   );
 };
